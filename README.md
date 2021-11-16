@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ZohaibAkram-DevOps
-- 👀 I’m interested in Web and Android development
+- 👋 Hi, I’m @ZohaibAkram-DevOps.
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me ...
