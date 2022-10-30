@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZohaibAkram-DevOps.
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Full Stack Development and Software Quality Assurance.
+- 🌱 I’m currently learning Automation Testing.
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me ...
 
