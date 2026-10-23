@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZohaibAkram-DevOps.
+👋 Hi, I’m @ZohaibAkram-DevOps.
 
 Operations manager in Dubai who builds the software behind the operation.
 
